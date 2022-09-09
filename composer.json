@@ -1,0 +1,9 @@
+{
+    "require": {
+        "stripe/stripe-php": "^7.116",
+        "aws/aws-sdk-php": "^3.233"
+    },
+    "config": {
+        "platform-check": false
+    }
+}
